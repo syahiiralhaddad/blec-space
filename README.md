@@ -6,7 +6,7 @@ The repo contains both sides: the **Flutter app** and the **ESP32 firmware**.
 
 ![BLEc Space app preview](docs/app_preview.png)
 
-<sub>UI design mockups. Individual screens are in <code>docs/design/</code>.</sub>
+
 
 ## Features
 
